@@ -34,7 +34,7 @@ I'm a full-stack Junior developer deeply interested in:
 
 ### 📫 Connect with Me
 
-- 📧 Email: `mark@example.com`
+- 📧 Email: `pianomarco38@gmail.com`
 - 💼 LinkedIn: [linkedin.com/in/marko-nazeeh-0b3336260](https://www.linkedin.com/in/marko-nazeeh-0b3336260/)
 - 💬 Discord: `marko.js`
 ---
